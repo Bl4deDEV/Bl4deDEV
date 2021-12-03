@@ -1,5 +1,5 @@
-<h3><b><i>🏆 My Discord Support Server:</i></b></h3>
-<a href="https://discord.gg/euMQqBF9uf"><img height="25" title="My Discord ❤️"
+<a href="https://discord.gg/euMQqBF9uf" target="_blank"> <img src="https://cdn.discordapp.com/attachments/826581697436581919/909100319705821205/3C3877B9-52FE-420E-B168-86029BE2EA3D.jpg" alt="Bl4deDEV´s Server"/></a>
+
 
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Bl4deDEV&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=tru)
 
