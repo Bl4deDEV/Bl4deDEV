@@ -1,3 +1,6 @@
+<h3><b><i>🏆 My Profile View :</i></b></h3>
+<a href="https://discord.gg/euMQqBF9uf"><img height="25" title="Counter"
+
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Bl4deDEV&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=tru)
 
 <p align="center">
